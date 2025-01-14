@@ -1,13 +1,13 @@
 ----------------------------------------------------------------------------------
 -- Auftraggeber:		HTW Dresden - Elektrotechnik und Informationstechnik - Projektarbeit
---						Prof. Dr.-Ing. habil. Göhler
+--						      Prof. Dr.-Ing. habil. Göhler
 --
--- Entwickler:			Jonathan Dreyer; Maximilian Stober
+-- Entwickler:			Jonathan Dreyer, Maximilian Stober
 -- 
--- Projekt:				Arduino Commander Serielles Protokoll
+-- Projekt:				  Serielles Protokoll Arduino Commander 
 --
 -- Beschreibung:		Skript zum UART-Kommunikationsaufbau mit United Automation - FC36MV Three Phase Firing Board (B6C)
---						und Darstellung übertragener Daten per LCD-Modul
+--						      und Darstellung übertragener Daten per LCD-Modul
 --
 --	Kommentar:			
 --
